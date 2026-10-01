@@ -4,7 +4,7 @@
 <h3>[Your title or one-line tagline, e.g. Front-end developer who loves accessible design]</h3>
 
 <p>
-  📍 [City, Country] &nbsp;•&nbsp; 🕒 [Timezone] &nbsp;•&nbsp; 🗣️ [Languages you speak]
+  📍 [City, Country] &nbsp;•&nbsp;  🗣️ [Languages you speak]
 </p>
 <hr>
 <img src="29187748876_a82be2b522_c.jpg">
