@@ -7,7 +7,7 @@
   📍 [City, Country] &nbsp;•&nbsp;  🗣️ [Languages you speak]
 </p>
 <hr>
-<img src="29187748876_a82be2b522_c.jpg">
+<img src="4504377761_01cb7a52d0_c.jpg">
 <h2>🧑‍💻 About me</h2>
 
 <p>
